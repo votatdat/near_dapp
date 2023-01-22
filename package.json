@@ -8,5 +8,8 @@
   "main": "index.js",
   "repository": "https://github.com/votatdat/near_dapp.git",
   "author": "Vo Tat Dat <tatdat13@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
 }
