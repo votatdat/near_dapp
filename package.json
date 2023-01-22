@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "assemblyscript": "^0.26.5",
+    "near-sdk-as": "^3.2.3"
+  },
+  "name": "near_dapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/votatdat/near_dapp.git",
+  "author": "Vo Tat Dat <tatdat13@gmail.com>",
+  "license": "MIT"
+}
